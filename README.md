@@ -1,4 +1,5 @@
-# monty_hall
+# An analytical solution to Monty Hall
+
 
 Anyone who has read a book about statistics and probability must have come across the famous ‘Monty Hall’ problem. This problem was actually a part of the TV show, Lets Make a Deal . The show had two hosts: Stefan Hatos and Monty Hall after whom the problem was named.
 Here how the problem goes:
